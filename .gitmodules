@@ -1,0 +1,12 @@
+[submodule "rapport_M2"]
+	path = rapport_M2
+	url = https://github.com/paolo944/rapport_M2.git
+[submodule "F5_bihomo"]
+	path = F5_bihomo
+	url = https://github.com/paolo944/F5_bihomo.git
+[submodule "MPCitH_SBC"]
+	path = MPCitH_SBC
+	url = https://github.com/paolo944/MPCitH_SBC.git
+[submodule "F2_Converter"]
+	path = F2_Converter
+	url = https://github.com/paolo944/F2_Converter.git
